@@ -80,6 +80,7 @@ These sites cover startup listings, SaaS products, and founder stories. I put th
 This group is for AI products, developer tools, extensions, and general software. I read the categories before submitting. A focused catalog may fit my product better than a larger directory that covers everything.
 
 - [ListBulb](https://listbulb.com)
+- [MeetNewAI](https://meetnewai.com)
 - [ToolRain](https://toolrain.com)
 - [Good AI Tools](https://goodaitools.com)
 - [Acid Tools](https://acidtools.com)
