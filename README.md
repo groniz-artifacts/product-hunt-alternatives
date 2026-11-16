@@ -1,12 +1,12 @@
-# 111 Links for Launching or Listing Your Product Beyond Product Hunt
+# 112 Links for Launching or Listing Your Product Beyond Product Hunt
 
-I keep this working list for the unglamorous part of a launch: finding places where I can list, share, or promote a product. It contains 111 URLs across 110 unique domains. The numbers differ because Launch List appears twice, once as its homepage and once as a live Groniz listing. I kept both so you can compare the directory with an actual product page.
+I keep this working list for the unglamorous part of a launch: finding places where I can list, share, or promote a product. It contains 112 URLs across 111 unique domains. The numbers differ because Launch List appears twice, once as its homepage and once as a live Groniz listing. I kept both so you can compare the directory with an actual product page.
 
 "Product Hunt alternatives" is convenient shorthand, but it is a loose description of this list. [Product Hunt's official launch guide](https://www.producthunt.com/launch) describes a free, community-based platform built around product submissions, voting, comments, and sharing. Most of the sites below are not Product Hunt clones. Some have a launch feed or maker community. Others are SaaS directories, AI tool catalogs, or discovery services. I would use them alongside a Product Hunt launch, not as interchangeable replacements.
 
 The four groups are my filing system, not ratings. Two sites in the same section can have different audiences and submission processes, and I may not value them equally. The list itself is free, but third-party submissions may not be. A site may also close submissions, use a review queue, change its rules, or reject a listing. Link attributes can change. I check the current page before investing time or money.
 
-## Launch platforms and maker communities (38)
+## Launch platforms and maker communities (39)
 
 I start here for a time-bound launch, early feedback, or visibility among other builders. Still, I care more about audience fit than the word "launch" in a domain name.
 
@@ -48,6 +48,7 @@ I start here for a time-bound launch, early feedback, or visibility among other 
 - [Startup.sx](https://www.startup.sx)
 - [Indie Deals](https://indie.deals)
 - [Submito](https://submito.net)
+- [Awesome Indie](https://awesomeindie.com)
 
 ## Startup and SaaS directories (21)
 
@@ -125,7 +126,7 @@ This group is the mixed drawer: submission help, link-focused discovery, marketp
 
 - [VerifiedDR](https://verifieddr.com)
 - [LaunchPanda](https://launchpanda.dev)
-- [Launch List](https://launch-list.org), plus the separate [Groniz example listing](https://www.launch-list.org/product/groniz), which is why this article has 111 URLs but only 110 unique domains
+- [Launch List](https://launch-list.org), plus the separate [Groniz example listing](https://www.launch-list.org/product/groniz), which is why this article has 112 URLs but only 111 unique domains
 - [Lemon Launch](https://lemonlaunch.dev)
 - [Aura++](https://auraplusplus.com)
 - [EasyDoFollow](https://easydofollow.dev)
@@ -136,7 +137,7 @@ This group is the mixed drawer: submission help, link-focused discovery, marketp
 - [The Fastest Web](https://thefastestweb.site)
 - [AI Directories](https://www.aidirectori.es)
 
-## How I would turn 110 domains into a launch plan
+## How I would turn 111 domains into a launch plan
 
 A list this long can turn into procrastination with a spreadsheet attached. Bulk submission is the other temptation. My preference is a short list and a series of manageable waves.
 
@@ -150,7 +151,7 @@ This packet is a starting point, not copy I paste into every form. I adapt the o
 
 ### 2. Shortlist by audience fit
 
-I choose 10 to 20 sites first, not all 110. For each one, I check whether it serves my buyer, other makers, or mainly people collecting tools. Then I look for recent activity in my category and decide whether the effort makes sense at this stage.
+I choose 10 to 20 sites first, not all 111. For each one, I check whether it serves my buyer, other makers, or mainly people collecting tools. Then I look for recent activity in my category and decide whether the effort makes sense at this stage.
 
 I also check the current submission rules, cost, review process, and whether the site still operates. Promised traffic, "dofollow" labels, and third-party authority scores do not settle whether a site is relevant. None guarantees visits, rankings, or customers.
 
